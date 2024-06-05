@@ -1,1 +1,2 @@
-# Pencil-Sketching
+Responsive Real Time Pencil Sketching Using Opencv:
+The project captures real-time video from a webcam and enables users to select a region for a pencil sketch effect using mouse interactions. The selected region is processed to create a sketch by converting it to grayscale, inverting, blurring, and blending the image. This sketched region replaces the original in the video feed, which is then displayed and saved as an image. The application runs until the 'q' key is pressed to exit.
